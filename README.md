@@ -1,7 +1,7 @@
 # CMPUT404-lab_1
 
 Question 1: What is your GitHub URL?
-  ANS: https://github.com/Aden-Adar/CMPUT404-lab_1.git
+ANS: https://github.com/Aden-Adar/CMPUT404-lab_1.git
 
 Question 2: What version is the requests library installed on the system?
   ANS: 2.28.1
