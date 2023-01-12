@@ -2,6 +2,7 @@
 
 Question 1: What is your GitHub URL?
   - https://github.com/Aden-Adar/CMPUT404-lab_1.git
+
 Question 2: What version is the requests library installed on the system?
   - 2.28.1
 Question 3: What version is the requests library installed in the virtualenv?
